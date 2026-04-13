@@ -180,6 +180,15 @@ Security/GRC        ISO 27001 · GDPR · NIST · CIS · GEA Audit
 Dev/Other           Git · GitHub · GitHub Pages · CRM Systems
 ```
 
+
+## Repositories
+
+| Repo | Description |
+|---|---|
+| [cybersecurity-study-notes](https://github.com/yadavgcybernet/cybersecurity-study-notes) | Study notes on ISM, Essential Eight, APPs, NIST CSF 2.0, ISO 27001:2022 & GDPR |
+| [sec](https://yadavgcybernet.github.io/sec) | Personal cybersecurity & GRC portfolio (GitHub Pages) |
+
+
 ---
 
 ## Currently Working On
@@ -201,3 +210,5 @@ I'm actively seeking **IT Support, Helpdesk, NOC, Cybersecurity, or GRC roles** 
 🌐 [yadavgcybernet.github.io/sec](https://yadavgcybernet.github.io/sec/)
 
 > Full Australian Working Rights · Available immediately · Willing to relocate Australia-wide · English (Professional fluency)
+
+> *"Security is not a product, but a process."* — Bruce Schneier
