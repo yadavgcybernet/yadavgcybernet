@@ -145,8 +145,9 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ---
 
 ## Certifications
+> 📋 Full list of 30 certifications across 7 categories available on [Github]: [github.com/yadavgcybernet/certifications](https://github.com/yadavgcybernet/certifications)
 
-> 📋 Full list of 30 certifications across 7 categories available on [LinkedIn](https://www.linkedin.com/in/yadav-ghorasainee/)
+> 📋 Also available on [LinkedIn]: (https://www.linkedin.com/in/yadav-ghorasainee/)
 
 | Certification | Issuer | Year | Status |
 |---|---|---|---|
