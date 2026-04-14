@@ -2,7 +2,7 @@
 
 # Hi, I'm Yadav Ghorasainee 👋
 
-### Cybersecurity & GRC | IS Auditor | IT Support & Network Professional | Perth, Australia
+### Cybersecurity & GRC | ISO 27001:2022 Lead Auditor | IS Auditor | IT Support & Network Professional | Perth, Western Australia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yadav--ghorasainee-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadav-ghorasainee/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yadavgcybernet.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://yadavgcybernet.github.io/sec/)
@@ -20,7 +20,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 
 - 🏆 **Employee of the Year 2024** — Eminence Ways Pvt. Ltd (awarded by MD Narayan Koirala, March 12, 2024)
 - 🎓 **MSc IT & Applied Security** — London Metropolitan University / Islington College
-- 🛡️ **ISO 27001 Internal Auditor** | **(ISC)² CC Passed** | **Fortinet NSE1/NSE2**
+- 🛡️ **ISO/IEC 27001:2022 Lead Auditor** (Mastermind Assurance — Active to Apr 2029) | **(ISC)² CC Passed** | **Fortinet NSE1/NSE2**
 - 📋 **Dissertation:** *"Securing Insurance Companies: A Strategic Approach to ISO 27001 – ISMS Implementation"* — 0% plagiarism
 - 📍 Perth, WA 6104 · Full Australian Working Rights · Available immediately · Willing to relocate Australia-wide
 - 🎯 Seeking: IT Support | Helpdesk | NOC | Cybersecurity | GRC roles in Australia
@@ -46,8 +46,9 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 - Basic firewall rules and access controls
 
 ### Systems & Cloud
+
 | Platform | Level |
-|----------|-------|
+|---|---|
 | Windows 10/11 | Proficient |
 | Windows Server 2016/2019/2022 | Basic |
 | Active Directory (user management) | Basic |
@@ -58,12 +59,13 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 | Linux CLI (Ubuntu, CentOS) | Basic |
 
 ### Security & GRC
-- ISO 27001 ISMS concepts and principles
+- ISO 27001:2022 ISMS — Lead Auditor certified
 - GDPR and data privacy fundamentals
+- ACSC Essential Eight & Australian Privacy Principles
+- NIST CSF 2.0 and Australian ISM frameworks
 - Cybersecurity threat awareness (Fortinet NSE)
 - MFA and endpoint protection basics
 - Incident logging and security reporting
-- NIST and CIS framework familiarity
 - IT audit and compliance concepts
 - Government Enterprise Architecture (GEA) audits
 
@@ -72,7 +74,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ## Work Experience
 
 ### Information Systems Audit Officer
-**Eminence Ways Pvt. Ltd — Cybersecurity Firm** · Kathmandu, Nepal
+**Eminence Ways Pvt. Ltd — Cybersecurity Firm** · Kathmandu, Nepal  
 *January 2023 – January 2025*
 
 > 🏆 **Employee of the Year 2024** — Awarded March 12, 2024 by Managing Director Narayan Koirala for consistent performance and quality of work across multiple client engagements.
@@ -88,7 +90,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ---
 
 ### L2 Technical Support Engineer
-**Kantipur Management Pvt. Ltd (Dish Media Network)** · Lalitpur, Nepal
+**Kantipur Management Pvt. Ltd (Dish Media Network)** · Lalitpur, Nepal  
 *November 2021 – October 2022*
 
 - Provided second-level technical support for escalated network and connectivity issues within SLA timeframes
@@ -102,7 +104,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ---
 
 ### Customer Service Representative (Technical)
-**Kantipur Management Pvt. Ltd** · Lalitpur, Nepal
+**Kantipur Management Pvt. Ltd** · Lalitpur, Nepal  
 *August 2021 – November 2021*
 
 - Delivered first-level technical support for internet connectivity, router setup, and network troubleshooting via phone, email, and live chat
@@ -112,7 +114,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ---
 
 ### Technical Support Representative
-**Kalash Services Pvt. Ltd (Worldlink Communications)** · Lalitpur, Nepal
+**Kalash Services Pvt. Ltd (Worldlink Communications)** · Lalitpur, Nepal  
 *September 2019 – January 2020*
 
 - Resolved customer technical issues related to internet, IPTV, LAN, and Wi-Fi in a fast-paced ISP environment
@@ -121,7 +123,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ---
 
 ### Wireless Internet Support Intern
-**Subisu Cable Pvt. Ltd** · Kathmandu, Nepal
+**Subisu Cable Pvt. Ltd** · Kathmandu, Nepal  
 *December 2018 – March 2019*
 
 - Assisted with field installation and configuration of routers, switches, and cabling for residential and SME clients
@@ -132,7 +134,7 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 ## Education
 
 | Degree | Institution | Year |
-|--------|-------------|------|
+|---|---|---|
 | **MSc Information Technology and Applied Security** — Specialisation: Computer Networking & Cybersecurity | Islington College / London Metropolitan University, Nepal | 2022 – 2025 |
 | **BSc Computer Science and Information Technology (CSIT)** | Asian College of Higher Studies, Tribhuvan University, Nepal | 2014 – 2018 |
 
@@ -144,23 +146,28 @@ Experienced in troubleshooting connectivity issues, supporting end users, config
 
 ## Certifications
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| NSE1, NSE2 & Fortinet Certified Fundamentals in Cybersecurity | Fortinet | 2021 |
-| CyberOps Associate · Cybersecurity Essentials · Fundamentals | Cisco Networking Academy | 2022 |
-| (ISC)² Certified in Cybersecurity (CC) — Exam Passed | (ISC)² | 2023 |
-| (ISC)² CC Cert Prep · CISA Exam Preparation | LinkedIn Learning | 2023 |
-| ISO 27001 Internal Auditor Course · EU GDPR Foundations | Advisera | 2024 |
-| ISO 27001:2022 Annex A Controls · GRC Foundations | LinkedIn Learning | Feb 2025 |
-| GDPR & Data Protection Act — Foundation Level (2 courses) | Aim Training / Fit4Privacy | 2025 |
-| AIQI ISO/IEC 42001 — AI Management System Standard | UKAS | Jun 2025 |
-| Cybersecurity Foundations: GRC | LinkedIn Learning | Jun 2025 |
+> 📋 Full list of 30 certifications across 7 categories available on [LinkedIn](https://www.linkedin.com/in/yadav-ghorasainee/)
+
+| Certification | Issuer | Year | Status |
+|---|---|---|---|
+| **ISO/IEC 27001:2022 Lead Auditor** | Mastermind Assurance | Apr 2026 | ✅ Active to Apr 2029 |
+| GDPR & Data Protection Act — Foundation Level | Aim Training Academy | Feb 2025 | ✅ Active to Feb 2026 |
+| ISO 27001:2022 Annex A Controls · GRC Foundations | LinkedIn Learning | Feb 2025 | No Expiry |
+| GDPR & DPA Foundation · Free GDPR (100%) | Aim Training / EK Advisory | Feb 2025 | No Expiry |
+| AIQI ISO/IEC 42001 — AI Management System | UKAS | Jun 2025 | No Expiry |
+| Cybersecurity Foundations: GRC | LinkedIn Learning | Jun 2025 | No Expiry |
+| (ISC)² Certified in Cybersecurity (CC) — Exam Passed | (ISC)² | 2023 | No Expiry |
+| CISA Exam Preparation (10h 8min learning path) | LinkedIn Learning | 2023 | No Expiry |
+| Digital Forensics Essentials (DFE) | EC-Council | 2023 | No Expiry |
+| CyberOps Associate · Cybersecurity Essentials | Cisco Networking Academy | 2022 | No Expiry |
+| NSE1, NSE2 & Fortinet Certified Fundamentals | Fortinet | 2021 | Expired |
 
 ---
 
 ## Key Achievements
 
 - 🏆 **Employee of the Year 2024** — Recognised by Managing Director for consistent performance across multiple client engagements at a cybersecurity firm
+- 🛡️ **ISO/IEC 27001:2022 Lead Auditor** — Achieved April 2026; valid through April 2029 (Mastermind Assurance)
 - 📄 **MSc Dissertation — 0% plagiarism** — Demonstrating strong research, analytical writing, and documentation skills
 - 📞 **High first-call resolution rate** maintained throughout L2 technical support role through systematic troubleshooting
 - 🔍 **RCA contribution** — Helped reduce recurring network incident rates through structured root cause analysis processes
@@ -176,27 +183,29 @@ Networking          TCP/IP · DNS · DHCP · VPN · Nagios · iMaster NCE · LAN
 Remote Support      TeamViewer · AnyDesk · RDP
 Cloud & Identity    Microsoft Azure · Active Directory · Microsoft 365 · Exchange Online
 Virtualisation      Hyper-V · VMware · Veeam · Acronis
-Security/GRC        ISO 27001 · GDPR · NIST · CIS · GEA Audit
-Dev/Other           Git · GitHub · GitHub Pages · CRM Systems
+Security/GRC        ISO 27001:2022 · GDPR · NIST CSF 2.0 · ACSC ISM · Essential Eight · APPs · GEA Audit
+Dev/Other           Git · GitHub · GitHub Pages · Python (ReportLab) · CRM Systems
 ```
 
+---
 
 ## Repositories
 
 | Repo | Description |
 |---|---|
+| [iso27001-audit-toolkit](https://github.com/yadavgcybernet/iso27001-audit-toolkit) | Practical ISO 27001:2022 audit toolkit — Annex A checklist, risk register, SoA template, evidence guide |
 | [cybersecurity-study-notes](https://github.com/yadavgcybernet/cybersecurity-study-notes) | Study notes on ISM, Essential Eight, APPs, NIST CSF 2.0, ISO 27001:2022 & GDPR |
 | [sec](https://yadavgcybernet.github.io/sec) | Personal cybersecurity & GRC portfolio (GitHub Pages) |
-
 
 ---
 
 ## Currently Working On
 
-- 📚 Progressing toward **CISA** (Certified Information Systems Auditor) certification
+- 📚 Progressing toward **CISA** (Certified Information Systems Auditor) — building on Lead Auditor foundation
 - ☁️ Expanding cloud skills with **Azure** and **AWS fundamentals**
-- 🇦🇺 Building my professional network in the **Australian IT industry**
-- 🔐 Deepening GRC and compliance knowledge with **ISO/IEC 42001** (AI Management Systems)
+- 🇦🇺 Building professional network in the **Australian IT & cybersecurity industry**
+- 📖 Deepening GRC knowledge across **ACSC Essential Eight**, **NIST CSF 2.0**, and **Australian Privacy Act**
+- 🔐 Exploring **AI security governance** through ISO/IEC 42001 (AI Management Systems)
 
 ---
 
@@ -204,9 +213,9 @@ Dev/Other           Git · GitHub · GitHub Pages · CRM Systems
 
 I'm actively seeking **IT Support, Helpdesk, NOC, Cybersecurity, or GRC roles** in Perth, WA and across Australia.
 
-📧 [yadavg.cybernet@gmail.com](mailto:yadavg.cybernet@gmail.com)
-📞 0451 868 654
-💼 [linkedin.com/in/yadav-ghorasainee](https://www.linkedin.com/in/yadav-ghorasainee/)
+📧 [yadavg.cybernet@gmail.com](mailto:yadavg.cybernet@gmail.com)  
+📞 0451 868 654  
+💼 [linkedin.com/in/yadav-ghorasainee](https://www.linkedin.com/in/yadav-ghorasainee/)  
 🌐 [yadavgcybernet.github.io/sec](https://yadavgcybernet.github.io/sec/)
 
 > Full Australian Working Rights · Available immediately · Willing to relocate Australia-wide · English (Professional fluency)
